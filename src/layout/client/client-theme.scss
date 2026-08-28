@@ -1,0 +1,59 @@
+// ==================================================
+// 学员端主题（与管理后台登录页保持一致 · 青蓝天空色）
+// ==================================================
+$client-color-primary: #38bdf8 !default;
+$client-color-primary-light: #7dd3fc !default;
+$client-color-primary-dark: #0ea5e9 !default;
+$client-color-accent: #ccfbf1 !default;
+$client-color-bg: #f0fdfa !default;
+$client-color-surface: #ffffff !default;
+$client-color-text-main: #0369a1 !default;
+$client-color-text-secondary: #64748b !default;
+$client-color-border: #e2e8f0 !default;
+
+// Header
+$client-header-bg-start: #e0f2fe !default;
+$client-header-bg-end: #f0fdfa !default;
+$client-header-shadow: rgba(56, 189, 248, 0.12) !default;
+$client-header-title: $client-color-text-main !default;
+$client-header-menu: #64748b !default;
+$client-header-menu-active: $client-color-text-main !default;
+$client-header-menu-hover: $client-color-primary !default;
+$client-header-menu-line-start: #38bdf8 !default;
+$client-header-menu-line-end: #99f6e4 !default;
+
+// Footer
+$client-footer-bg-start: #f0fdfa !default;
+$client-footer-bg-end: #ecfeff !default;
+$client-footer-border: rgba(186, 230, 253, 0.6) !default;
+$client-footer-shadow: rgba(56, 189, 248, 0.08) !default;
+$client-footer-title: #0c4a6e !default;
+$client-footer-text: $client-color-text-secondary !default;
+$client-footer-link-hover: $client-color-primary-dark !default;
+$client-footer-bottom-text: #94a3b8 !default;
+
+// Profile (个人中心)
+$client-profile-card-bg: $client-color-surface !default;
+$client-profile-card-border: rgba(186, 230, 253, 0.6) !default;
+$client-profile-card-shadow: rgba(56, 189, 248, 0.1) !default;
+$client-profile-title: $client-color-text-main !default;
+$client-profile-subtitle: #0e7490 !default;
+$client-profile-label: #475569 !default;
+$client-profile-input-border: #e2e8f0 !default;
+$client-profile-input-focus: $client-color-primary-light !default;
+$client-profile-error: #f56c6c !default;
+$client-profile-tab: #64748b !default;
+$client-profile-tab-active: $client-color-primary-dark !default;
+$client-profile-tab-bar: $client-color-primary !default;
+
+// 主按钮（与后台登录 submit-btn 一致）
+$client-btn-bg: #38bdf8 !default;
+$client-btn-bg-hover: #0ea5e9 !default;
+$client-btn-shadow: rgba(56, 189, 248, 0.3) !default;
+$client-btn-hover-shadow: rgba(56, 189, 248, 0.35) !default;
+
+// 兼容旧变量名
+$client-pink-btn-start: $client-btn-bg !default;
+$client-pink-btn-end: $client-btn-bg-hover !default;
+$client-pink-btn-shadow: $client-btn-shadow !default;
+$client-pink-btn-hover-shadow: $client-btn-hover-shadow !default;
