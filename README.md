@@ -29,7 +29,7 @@
 - 系统整体功能模块结构如下图所示。
 
 
-![功能模块图](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/azhou_promotion/img/module_structure/func_module_6c69db37c7fc46fe92961d52bb129d3c.png)
+![功能模块图](docs/images/01-func-module.png)
 
 
 ## 三、技术栈说明
@@ -61,35 +61,35 @@
 
 登录页：管理员输入信息，登录睿考云平台
 
-![登录页：管理员输入信息，登录睿考云平台](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/f67fb832-baa7-4236-89cf-fbe7322b4d87.png)
+![登录页：管理员输入信息，登录睿考云平台](docs/images/02-deng-lu.png)
 
 工作台：展示平台运行概况、数据统计与待办审核事项
 
-![工作台：展示平台运行概况、数据统计与待办审核事项](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/a9afe675-a5c6-4f92-8d44-fdc570b369d8.png)
+![工作台：展示平台运行概况、数据统计与待办审核事项](docs/images/03-gong-zuo-tai.png)
 
 教师管理：查询管理平台内的教师账号信息
 
-![教师管理：查询管理平台内的教师账号信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/2b609418-73a6-4255-8f08-198a811c668f.png)
+![教师管理：查询管理平台内的教师账号信息](docs/images/04-jiao-shi-guan-li.png)
 
 课程管理页：展示课程列表，支持对课程进行增删改管理
 
-![课程管理页：展示课程列表，支持对课程进行增删改管理](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/ebeb8c7a-5818-4b54-88b0-36494194b2d9.png)
+![课程管理页：展示课程列表，支持对课程进行增删改管理](docs/images/05-ke-cheng-guan-li.png)
 
 学生管理：查询管理平台内的学生信息
 
-![学生管理：查询管理平台内的学生信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/df8ee227-8a92-4634-82da-fabaa1c131f0.png)
+![学生管理：查询管理平台内的学生信息](docs/images/06-xue-sheng-guan-li.png)
 
 班级管理：管理员管理指定班级中的学生信息
 
-![班级管理：管理员管理指定班级中的学生信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/ef3de50e-44dc-4ecf-8ff5-3e29a2e43664.png)
+![班级管理：管理员管理指定班级中的学生信息](docs/images/07-ban-ji-guan-li.png)
 
 班级管理页：管理员查看并管理系统内的班级信息
 
-![班级管理页：管理员查看并管理系统内的班级信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/a682000d-14c7-4a84-8e41-5140d95c79c6.png)
+![班级管理页：管理员查看并管理系统内的班级信息](docs/images/08-ban-ji-guan-li.png)
 
 考试审核列表页：查看待审核考试，进行考试审核操作
 
-![考试审核列表页：查看待审核考试，进行考试审核操作](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/513decf7-dd44-4eff-8c90-32d95c6a48ec.png)
+![考试审核列表页：查看待审核考试，进行考试审核操作](docs/images/09-kao-shi-shen-he-lie-biao.png)
 
 
 ##### 教师端
@@ -114,59 +114,59 @@
 
 工作台：展示工作台统计数据与最近的考试列表
 
-![工作台：展示工作台统计数据与最近的考试列表](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/7e0bd97d-6773-49f9-8f11-ae41b992a0ca.png)
+![工作台：展示工作台统计数据与最近的考试列表](docs/images/10-gong-zuo-tai.png)
 
 题库管理页：查看指定课程的题库题目，可对题目进行管理
 
-![题库管理页：查看指定课程的题库题目，可对题目进行管理](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/1b7e37bc-ad27-4279-865a-69891917a1d2.png)
+![题库管理页：查看指定课程的题库题目，可对题目进行管理](docs/images/11-ti-ku-guan-li.png)
 
 题目修改页：修改题库中已有的简答题题目信息
 
-![题目修改页：修改题库中已有的简答题题目信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/8e6a4514-1257-4eaf-8abe-6d48014794a4.png)
+![题目修改页：修改题库中已有的简答题题目信息](docs/images/12-ti-mu-xiu-gai.png)
 
 知识库管理：管理知识库分类下的知识文档，支持增删操作
 
-![知识库管理：管理知识库分类下的知识文档，支持增删操作](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/87d58c2a-fa2f-4677-8e50-d30b55f8c24f.png)
+![知识库管理：管理知识库分类下的知识文档，支持增删操作](docs/images/13-zhi-shi-ku-guan-li.png)
 
 知识库管理：预览知识文档12-Redis1的内容
 
-![知识库管理：预览知识文档12-Redis1的内容](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/8af60427-9c0d-4f03-8853-9e01c0368030.png)
+![知识库管理：预览知识文档12-Redis1的内容](docs/images/14-zhi-shi-ku-guan-li.png)
 
 AI出题页：配置出题参数，基于知识库文档生成题目
 
-![AI出题页：配置出题参数，基于知识库文档生成题目](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/73a4b9ab-93e4-403d-877f-0bb71b89708b.png)
+![AI出题页：配置出题参数，基于知识库文档生成题目](docs/images/15-ai-chu-ti.png)
 
 试卷管理页：查看并管理所选课程下的试卷，可新建试卷
 
-![试卷管理页：查看并管理所选课程下的试卷，可新建试卷](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/6bb6eca3-ade4-4bfd-828a-aa5fceaf504a.png)
+![试卷管理页：查看并管理所选课程下的试卷，可新建试卷](docs/images/16-shi-juan-guan-li.png)
 
 试卷管理页：教师编辑组装数据结构与算法期中试卷
 
-![试卷管理页：教师编辑组装数据结构与算法期中试卷](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/b85c4dd5-8c71-4cd1-8ef2-c08783719e2c.png)
+![试卷管理页：教师编辑组装数据结构与算法期中试卷](docs/images/17-shi-juan-guan-li.png)
 
 考试管理页：查看所选课程的考试列表，支持新建考试
 
-![考试管理页：查看所选课程的考试列表，支持新建考试](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/ce6fd874-2843-499b-88ea-b14303e80450.png)
+![考试管理页：查看所选课程的考试列表，支持新建考试](docs/images/18-kao-shi-guan-li.png)
 
 考试管理页：为指定考试选择设置参加考试的学生
 
-![考试管理页：为指定考试选择设置参加考试的学生](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/d38db0dd-1753-4509-8fef-459190c9353d.png)
+![考试管理页：为指定考试选择设置参加考试的学生](docs/images/19-kao-shi-guan-li.png)
 
 考试详情页：查看当前考试下所有学生的考试记录
 
-![考试详情页：查看当前考试下所有学生的考试记录](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/ef935e03-c5ca-4569-85ad-b6853217345d.png)
+![考试详情页：查看当前考试下所有学生的考试记录](docs/images/20-kao-shi-xiang-qing.png)
 
 考试详情页：查看指定学生的考试答题详情
 
-![考试详情页：查看指定学生的考试答题详情](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/39a41443-8c96-4db6-8b0c-902426cf01a6.png)
+![考试详情页：查看指定学生的考试答题详情](docs/images/21-kao-shi-xiang-qing.png)
 
 成绩统计页：查看数据结构与算法课程的成绩统计与趋势
 
-![成绩统计页：查看数据结构与算法课程的成绩统计与趋势](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/7e2a5eab-5619-4956-8cb3-7d8bd3b71e36.png)
+![成绩统计页：查看数据结构与算法课程的成绩统计与趋势](docs/images/22-cheng-ji-tong-ji.png)
 
 成绩统计页：查看指定考试的学生成绩统计与明细
 
-![成绩统计页：查看指定考试的学生成绩统计与明细](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/11239874-8afe-454c-881b-c393c61239c2.png)
+![成绩统计页：查看指定考试的学生成绩统计与明细](docs/images/23-cheng-ji-tong-ji.png)
 
 
 ##### 学生端
@@ -190,35 +190,35 @@ AI出题页：配置出题参数，基于知识库文档生成题目
 
 注册页：创建睿考云平台的学生账号
 
-![注册页：创建睿考云平台的学生账号](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/a7828e5a-ca6e-4c0f-88db-7fb8fe2982a1.png)
+![注册页：创建睿考云平台的学生账号](docs/images/24-zhu-ce.png)
 
 登录页：学生输入学号密码，登录睿考云平台
 
-![登录页：学生输入学号密码，登录睿考云平台](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/3fe45206-c8e5-4533-84e1-53ae9c2256ee.png)
+![登录页：学生输入学号密码，登录睿考云平台](docs/images/25-deng-lu.png)
 
 首页：展示考试统计信息，查看近期已完成考试
 
-![首页：展示考试统计信息，查看近期已完成考试](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/c7e9c3a6-576a-4ef0-8a6e-6d25b5a6470c.png)
+![首页：展示考试统计信息，查看近期已完成考试](docs/images/26-shou-ye.png)
 
 我的考试页：查看已分配考试，可查看考试成绩
 
-![我的考试页：查看已分配考试，可查看考试成绩](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/7bb76b57-a354-4877-82f4-10c542f503df.png)
+![我的考试页：查看已分配考试，可查看考试成绩](docs/images/27-wo-de-kao-shi.png)
 
 在线考试页：学生参与在线考试，正在作答考试题目
 
-![在线考试页：学生参与在线考试，正在作答考试题目](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/f6c7e3b5-61cc-4ec8-83b3-88f3f63a5ce9.png)
+![在线考试页：学生参与在线考试，正在作答考试题目](docs/images/28-zai-xian-kao-shi.png)
 
 成绩查看页：展示本次考试得分和各题答题详情
 
-![成绩查看页：展示本次考试得分和各题答题详情](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/4bcd6904-fed2-41cc-8f96-c230ec179113.png)
+![成绩查看页：展示本次考试得分和各题答题详情](docs/images/29-cheng-ji-cha-kan.png)
 
 课程统计页：查看指定课程的考试成绩统计与变化趋势
 
-![课程统计页：查看指定课程的考试成绩统计与变化趋势](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/5f2c5312-1d40-4fe6-83f1-619b3477bfbc.png)
+![课程统计页：查看指定课程的考试成绩统计与变化趋势](docs/images/30-ke-cheng-tong-ji.png)
 
 个人中心：管理个人账号信息与安全设置
 
-![个人中心：管理个人账号信息与安全设置](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/9fd6e864-7237-4c5e-8da6-8677d0f94ef8.png)
+![个人中心：管理个人账号信息与安全设置](docs/images/31-ge-ren-zhong-xin.png)
 
 
 ## 五、主要业务流程
